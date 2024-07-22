@@ -19,5 +19,5 @@ li:nth-last-child(1){
 }
 
 p:only-child{
-  color: brown;
+  color: green;
 }
